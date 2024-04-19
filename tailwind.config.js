@@ -16,9 +16,9 @@ module.exports = {
         "sans": ["Red Hat Display"]
       },
       backgroundImage: {
-        'mobile-footer': "url('/assets/mobile/image-footer.jpg')",
-        'tablet-footer': "url('/assets/tablet/image-footer.jpg')",
-        'deskop-footer': "url('/assets/desktop/image-footer.jpg')"
+        'mobile-footer': "url('../assets/mobile/image-footer.jpg')",
+        'tablet-footer': "url('../assets/tablet/image-footer.jpg')",
+        'desktop-footer': "url('../assets/desktop/image-footer.jpg')"
         
       }
     },
